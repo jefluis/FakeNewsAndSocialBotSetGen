@@ -1,9 +1,9 @@
-﻿## FakeNewsSetGen
+﻿## FakeNewsAndSocialBotSetGen
 
-A process that builds Fake News datasets that contain news propagation data and support comparison amid the state-of-the-art MLFN
+A process that builds Fake News and Social Bots datasets that contain news propagation and users data and support comparison amid the state-of-the-art MLFN
 
 ##  Overview:
- FakeNewsSetGen contains 4 stages, grouped in two folders: `FirstAndSecondStage` and  `ThirdAndFourthStage`, according to the functional macro model that can be consulted in the file: `FakeNewsAndSocialBotSetGen.png`.  
+ FakeNewsAndSocialBotSetGen contains 6 stages, grouped in tree folders: `FirstAndSecondStage` , `ThirdAndFourthStage` and `FifthAndSixthStage` , according to the functional macro model that can be consulted in the file: `FakeNewsAndSocialBotSetGen.png`.  
  
 ###  Installation requirements:
  Data download scripts are writtern in python and requires `python 3.6 +` to run.
