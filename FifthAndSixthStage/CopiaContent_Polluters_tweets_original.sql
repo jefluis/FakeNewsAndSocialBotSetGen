@@ -1,0 +1,6 @@
+
+CREATE TABLE content_polluters_tweets_original_pt LIKE content_polluters_tweets_original;
+INSERT INTO content_polluters_tweets_original_pt SELECT * FROM content_polluters_tweets_original;
+
+CREATE TABLE content_polluters_tweets_original_pt SELECT * FROM content_polluters_tweets_original
+

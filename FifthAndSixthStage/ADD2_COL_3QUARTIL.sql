@@ -1,0 +1,2 @@
+SHOW DATABASES
+content_polluters_tweets_parcial

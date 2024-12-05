@@ -1,0 +1,60 @@
+Número dimensões do array dados = 2
+Número dimensões do array dados2 = 2
+Número dimensões do array dados3 = 2
+Número elementos do array dados = 1519322
+Número elementos do array dados2 = 41562
+Número elementos do array dados3 = 1426962
+comprimento do array "dados" = 4618
+comprimento do array "dados2" = 4618
+comprimento do array "dados3" = 4618
+Accuracy with +18 features = 0.9718614718614719
+Accuracy without 18 features =: 0.9069264069264069
+Accuracy with +300 features =: 0.9880952380952381
+No handles with labels found to put in legend.
+CreatedAt             0.176341
+NumberOfFollowings    0.132877
+V_media               0.084998
+D_mediana             0.076830
+D_media               0.071348
+V_3quartil            0.061502
+NumberOfFollowers     0.056186
+V_mediana             0.054867
+V_1quartil            0.043434
+NumberOfTweets        0.039758
+D_1quartil            0.033717
+A_1quartil            0.032697
+A_mediana             0.022865
+D_3quartil            0.021604
+A_media               0.020324
+LenDescrInUseProf     0.014931
+LengthOfScreenName    0.011516
+A_amplitude           0.009527
+A_desviopadrao        0.006973
+V_amplitude           0.006957
+D_desviopadrao        0.006442
+V_desviopadrao        0.006439
+A_3quartil            0.004325
+D_amplitude           0.003540
+dtype: float64
++++++++++++++++++++++++++++++++
+NumberOfFollowings    0.390603
+CreatedAt             0.218764
+NumberOfFollowers     0.179642
+NumberOfTweets        0.140216
+LenDescrInUseProf     0.046935
+LengthOfScreenName    0.023841
+dtype: float64
++++++++++++++++++++++++++++++++
+Tipo                  0.369694
+NumberOfFollowings    0.102390
+NumberOfFollowers     0.070723
+NumberOfTweets        0.019567
+d13_1quartil          0.015439
+  
+d8_3quartil           0.000000
+d18_media             0.000000
+Update_Control        0.000000
+d44_media             0.000000
+CreatedAt             0.000000
+Length: 308, dtype: float64
+++++++++++++FIM++++++++++++++++
